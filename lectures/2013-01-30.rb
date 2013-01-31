@@ -11,5 +11,5 @@ first = gets.chomp
 print "Enter in your last name: "
 last = gets.chomp
 binding.pry
-last = last.upcase
+last = last.upcassue
 puts "Your full name is #{first} #{last}"
